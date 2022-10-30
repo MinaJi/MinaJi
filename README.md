@@ -1,5 +1,5 @@
 <img src=
-"https://user-images.githubusercontent.com/106360156/196201024-bf857150-942f-41fc-9b9b-01537f58055f.gif" />
+"https://user-images.githubusercontent.com/106360156/198880947-1f286b8a-1b40-40ff-93b1-ea464d2f6d22.gif" />
 - 🍉 Hi, I’m @MinaJi
 - ⛰ I’m currently learning JavaScript/React ...
 - 🌈 I want to be a front-end developer.
