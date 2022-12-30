@@ -6,12 +6,12 @@
            |   |                                         |    |
            |   |   Welcome to my GitHub.                 |    |
            |   |                                         |    |
-           |   |  - 🍉 Hi, I’m @MinaJi                   |    |
+           |   |  - 🥨 Hi, I’m @MinaJi                   |    |
            |   |                                         |    |
-           |   |  - ⛰ I’m currently learning            |    |
+           |   |  - 🌵 I’m currently learning            |    |
            |   |     JavaScript/React ...                |    |
            |   |                                         |    |
-           |   |  - 🌈 I want to be a front-end          |    |
+           |   |  - 👽 I want to be a front-end          |    |
            |   |        developer                        |    |
            |   |                                         |    |
            |   |     Bye!!                               |    |
